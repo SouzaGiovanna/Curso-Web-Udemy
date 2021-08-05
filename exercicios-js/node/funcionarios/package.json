@@ -1,0 +1,17 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "aaaaaaaaaa",
+  "main": "outro.js",
+  "scripts": {
+    "test": "aaaaaaaa"
+  },
+  "keywords": [
+    "aaaaaaaaaaaa"
+  ],
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
